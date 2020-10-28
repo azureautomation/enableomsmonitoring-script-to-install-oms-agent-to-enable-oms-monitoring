@@ -1,7 +1,7 @@
 {
     "Author": "ASabale",
     "ContentSize": 7926,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enableomsmonitoring-script-to-install-oms-agent-to-enable-oms-monitoring./master/Enable-OMSMonitoring.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enableomsmonitoring-script-to-install-oms-agent-to-enable-oms-monitoring/master/Enable-OMSMonitoring.ps1",
     "DownloadCount": 840,
     "Id": "Enable-OMSMonitoring-91ff316b",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Disable-OMSMonitoring - script to remove OMS agent to disable OMS monitoring..SYNOPSIS\u00a0 \u00a0\u00a0- This script install OMS agent to enable OMS monitoring.\u00a0\u00a0.DESCRIPTION\u00a0 \u00a0 \u00a0- The script install Oms agent on selected VM and store all log in Oms workspace so that user can search any logs",
     "Title": "Enable-OMSMonitoring - script to install OMS agent to enable OMS monitoring.",
     "UpdatedDate": "2017-5-27T00:00:00",
-    "Url": "https://github.com/azureautomation/enableomsmonitoring-script-to-install-oms-agent-to-enable-oms-monitoring.",
+    "Url": "https://github.com/azureautomation/enableomsmonitoring-script-to-install-oms-agent-to-enable-oms-monitoring",
     "UserTags": "Monitoring, Azure Automation, OMS"
 }
